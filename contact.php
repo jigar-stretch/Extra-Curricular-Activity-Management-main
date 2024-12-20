@@ -9,23 +9,6 @@ include("header.php");
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <div class="detail-box">
-            <div class="heading_container">
-              <h3>
-                Contact Us
-              </h3>
-              <p>
-SDM College(Autonomous),<br>
-Ujire, D.K- 574240<br>
-Karnataka<br><br>
-<b>Phone:</b><br>08256 – 236101, 236488
-<br><br>
-<b>Email</b><br>
-sdmcollege@sdmcujire.in<br>
-pgcenter@sdmcujire.in
-              </p>
-            </div>
-          </div>
         </div>
         <div class="col-md-6">
           <div class="contact-form">

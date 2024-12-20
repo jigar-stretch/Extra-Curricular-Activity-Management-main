@@ -31,11 +31,10 @@ if(isset($_SESSION['student_id']))
   <!-- Mobile Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
-  <meta name="keywords" content="SDM College Extra Curricular Activities" />
-  <meta name="description" content="SDM College Extra Curricular Activities" />
-  <meta name="author" content="SDM College" />
+  <meta name="keywords" content=" Extra Curricular Activities" />
+  <meta name="description" content=" Extra Curricular Activities" />
 
-  <title>SDM College Extra Curricular Activities</title>
+  <title> Extra Curricular Activities</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />

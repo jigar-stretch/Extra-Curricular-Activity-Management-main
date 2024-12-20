@@ -54,28 +54,6 @@ include("slider.php");
     </div>
     <div class="container">
       <div class="row">
-        <div class="col-md-6">
-          <div class="img_container">
-            <div class="img-box b1">
-              <img src="images/sdmujire.jpg" alt="" />
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="detail-box">
-            <div class="heading_container">
-              <h3>
-                About Our College
-              </h3>
-              <p>
-                SDM College, Ujire is an autonomous college under Mangalore University. Founded in 1966, the college offers Bachelors and Masters Programmes in a serene campus at the foothills of the Western Ghats in Karnataka (India). The college is a recognized centre for research programmes of Mangalore University, Tumkur University and Kannada University Hampi. Managed by SDM Educational Society, it is headed by the visionary, Dr. D. Veerendra Heggade, Dharmadhikari of Shri Kshetra Dharmasthala. 
-              </p>
-              <a href="about.php">
-                Read More
-              </a>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </section>
@@ -94,7 +72,7 @@ include("slider.php");
           Extra Curricular Activity Management
         </h3>
         <p>
-          Extra Curricular Activity Management for SDM College, Ujire
+          Extra Curricular Activity Management
         </p>
       </div>
       <div class="course_container">

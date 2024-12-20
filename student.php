@@ -34,8 +34,6 @@ if(isset($_POST['btnsubmit']))
 		<br>
 		<a href='$link'>Click Here to Activate</a></b>
 		<br><br>
-		SDM College (Autonomous), Ujire, 574240<br>
-		sdmcollege@sdmcujire.in<br>
 		Call : 08256-236221, 225";
 		sendmail($email,$_POST['student_name'],$subject,$message);
 		echo "<script>alert('Kindly check your Email account to activate account..');</script>";

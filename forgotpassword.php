@@ -41,8 +41,6 @@ if(isset($_POST['btnsubmit']))
 			<br>
 			<a href='$link'>Click Here to Change password</a></b>
 			<br><br>
-			SDM College (Autonomous), Ujire, 574240<br>
-			sdmcollege@sdmcujire.in<br>
 			Call : 08256-236221, 225";
 			sendmail($email,$rslogin['student_name'],$subject,$message);
 			echo "<script>alert('Password Recovery mail sent to registered account. Kindly check..');</script>";

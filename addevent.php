@@ -79,7 +79,6 @@ sendbulkmail($participationemailids,$subject,$message);
 			$message = $message . "Event Title is : " . $_POST['event_title'] . " and it is scheduled on "  . date("d-m-Y h:i A",strtotime($eventdttime));
 			$message = $message . "<br><br><a href='$link'>Click Here to View</a></b>
 			<br><br>
-			SDM College (Autonomous), Ujire, PIN - 574240<br>
 			sdmcollege@sdmcujire.in<br>
 			Call : 08256-236221, 225";
 			sendmail($rsadminstaff['login_id'],$rsadminstaff['staff_name'],$subject,$message);

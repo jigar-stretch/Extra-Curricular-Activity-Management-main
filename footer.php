@@ -20,35 +20,6 @@
             </ul>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="info_course">
-            <h5>
-              About Us
-            </h5>
-            <p>
-              SDM College, Ujire is an autonomous college under Mangalore University. The college offers Bachelors and Masters Programmes .
-            </p>
-          </div>
-        </div>
-
-        <div class="col-md-5">
-          <div class="info_news">
-            <h5>
-              FOR ANY QUERY, PLEASE WRITE TO US
-            </h5>
-            <div class="info_contact">
-              <a href="">
-                SDM College (Autonomous), Ujire, 574240
-              </a>
-              <a href="">
-                sdmcollege@sdmcujire.in
-              </a>
-              <a href="">
-                Call : 08256-236221, 225
-              </a>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </section>
